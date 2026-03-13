@@ -50,7 +50,7 @@ string Status_lulus(float r){
             return "Lulus Cumlade";
         }
         else{
-            return "Lulus ";
+            return "Lulus baik";
         }
     }
     else{
