@@ -6,7 +6,7 @@ float Rata_rata(float a, float b){
     return (a + b) / 2;
 }
 
-string Status_(float r){
+string Status_lulus(float r){
     if (r >= 60)
         return "Lolos";
     else
