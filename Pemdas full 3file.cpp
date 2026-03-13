@@ -99,7 +99,7 @@ int main(){
         cout << "nilai x sudah dikoreksi menjadi : " << x << endl;
     }
 
-    cout << " yang diberikan = " << x;
+    cout << "Bilangan yang diberikan = " << x;
 
     return 0;
 }
