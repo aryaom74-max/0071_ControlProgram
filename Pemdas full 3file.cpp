@@ -54,7 +54,7 @@ string Status_lulus(float r){
         }
     }
     else{
-        return "";
+        return "Gagal";
     }
 }
 
