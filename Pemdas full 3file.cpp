@@ -19,7 +19,7 @@ int main(){
 
     cout << "Masukkan nilai Bahasa Inggris = ";
     cin >> nilBI;
-    cout << "Masukkan nilai M = ";
+    cout << "Masukkan nilai Matematika = ";
     cin >> nilMT;
 
     //rerata = (nilBI+nilMT)/2;
